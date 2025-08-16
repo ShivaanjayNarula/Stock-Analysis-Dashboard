@@ -25,7 +25,7 @@ It is a stock market analysis dashboard that provides **real-time stock data, pr
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/stock-analysis-dashboard.git
+   git clone https://github.com/ShivaanjayNarula/stock-analysis-dashboard.git
    cd stock-analysis-dashboard
    ```
 
